@@ -7,6 +7,8 @@ page at: <https://www.scummvm.org/>
 ## Patched version of ScummVM
 This version is a forked and patched version of ScummVM to use in conjunction with scummC compiler for game development purposes.
 
+The future plan for this repo is to reduce the overall program down and eliminate the VMs for other engines - to streamline this program for independent scummC game dev.
+
 ## Table of Contents:
 
   - [1.0) Introduction](#10-introduction)
